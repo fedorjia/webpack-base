@@ -15,11 +15,6 @@
     "lodash": "^4.17.10"
   },
   "devDependencies": {
-    "@babel/core": "^7.0.0-beta.51",
-    "@babel/plugin-proposal-object-rest-spread": "^7.0.0-beta.51",
-    "@babel/preset-env": "^7.0.0-beta.51",
-    "babel-loader": "^8.0.0-beta.4",
-    "babel-polyfill": "^6.26.0",
     "clean-webpack-plugin": "^0.1.19",
     "css-loader": "^0.28.11",
     "cssnext-loader": "^1.0.1",
